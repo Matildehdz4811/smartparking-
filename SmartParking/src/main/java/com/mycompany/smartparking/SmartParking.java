@@ -8,10 +8,12 @@ package com.mycompany.smartparking;
  *
  * @author jesus
  */
-public class SmartParking {
+public class Smartparking {
 
     public static void main(String[] args) {
-        login v = new login();
-        v.setVisible(true);
+     login v = new login();
+     v.setVisible(true);
+        
+        
     }
 }
